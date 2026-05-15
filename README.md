@@ -47,3 +47,48 @@ graph TD
     style E4 fill:#fff59d,stroke:#fbc02d
     style A fill:#ce93d8,stroke:#8e24aa,color:#fff
     style L fill:#81c784,stroke:#2e7d32,color:#fff
+---
+
+### 2. Core Competencies & Knowledge Domains
+*Click on each domain to explore the specific skills acquired during the track.*
+
+<details>
+<summary><b> Strategy & Market Analysis</b></summary>
+<br>
+<ul>
+  <li><b>Market Research:</b> Identifying gaps in the West African market and mapping the competitive landscape.</li>
+  <li><b>Business Modeling:</b> Designing sustainable value propositions for circular economies and retail adoption.</li>
+  <li><b>Strategic Planning:</b> Defining long-term roadmaps for Bitcoin-native infrastructures.</li>
+</ul>
+</details>
+
+<details>
+<summary><b>⚙️ Operations & Project Governance</b></summary>
+<br>
+<ul>
+  <li><b>Team Leadership:</b> Coordinating cross-functional teams including Developers, Designers, and Content Writers.</li>
+  <li><b>Agile Methodologies:</b> Implementing Kanban and Sprint cycles to ensure timely delivery.</li>
+  <li><b>Prioritization Models:</b> Utilizing <b>MoSCoW</b> and <b>RICE</b> frameworks to manage project backlogs.</li>
+  <li><b>Legal & Compliance:</b> Navigating VASP regulations and global compliance frameworks for Bitcoin startups.</li>
+</ul>
+</details>
+
+<details>
+<summary><b> Product & User Experience</b></summary>
+<br>
+<ul>
+  <li><b>Bitcoin UX/UI:</b> Designing intuitive flows for self-custody and Lightning Network payment interfaces.</li>
+  <li><b>Brand Identity:</b> Establishing trust and visual consistency in decentralized financial products.</li>
+  <li><b>Requirement Gathering:</b> Translating complex technical needs into clear User Stories.</li>
+</ul>
+</details>
+
+<details>
+<summary><b> Growth & Funding</b></summary>
+<br>
+<ul>
+  <li><b>Venture Capital:</b> Understanding the funding lifecycle, pitch deck optimization, and fundraising milestones.</li>
+  <li><b>Community Building:</b> Strategies for regional ecosystem development and institutional outreach.</li>
+  <li><b>Partnership Management:</b> Building alliances within the Bitcoin ecosystem to drive adoption.</li>
+</ul>
+</details>
